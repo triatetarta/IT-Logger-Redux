@@ -13,7 +13,7 @@ export const getLogs = () => async (dispatch) => {
   } catch (error) {
     dispatch({
       type: LOGS_ERROR,
-      payload: err.response.data,
+      payload: error.response.data,
     });
   }
 };
