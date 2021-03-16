@@ -27,6 +27,13 @@
       "tech": "Sam Smith",
       "date": "2021-03-08T21:54:20.325Z",
       "id": 6
+    },
+    {
+      "id": 7,
+      "message": "laptop formated on workstation 2",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-03-16T13:26:21.862Z"
     }
   ],
   "techs": [
