@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
-    },
-    {
       "id": 4,
       "message": "Workstation 026 is up and running",
       "attention": false,
@@ -56,11 +49,6 @@
       "firstName": "Dimitrios",
       "lastName": "Chatziioannou",
       "id": 4
-    },
-    {
-      "firstName": "Gill",
-      "lastName": "Smith",
-      "id": 5
     }
   ]
 }
