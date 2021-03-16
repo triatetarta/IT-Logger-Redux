@@ -51,6 +51,16 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Dimitrios",
+      "lastName": "Chatziioannou",
+      "id": 4
+    },
+    {
+      "firstName": "Gill",
+      "lastName": "Smith",
+      "id": 5
     }
   ]
 }
